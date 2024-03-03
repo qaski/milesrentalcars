@@ -1,0 +1,11 @@
+D:\2milescar\MilesCarRental.Domain\bin\Debug\net8.0\MilesCarRental.Domain.deps.json
+D:\2milescar\MilesCarRental.Domain\bin\Debug\net8.0\MilesCarRental.Domain.dll
+D:\2milescar\MilesCarRental.Domain\bin\Debug\net8.0\MilesCarRental.Domain.pdb
+D:\2milescar\MilesCarRental.Domain\obj\Debug\net8.0\MilesCarRental.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\2milescar\MilesCarRental.Domain\obj\Debug\net8.0\MilesCarRental.Domain.AssemblyInfoInputs.cache
+D:\2milescar\MilesCarRental.Domain\obj\Debug\net8.0\MilesCarRental.Domain.AssemblyInfo.cs
+D:\2milescar\MilesCarRental.Domain\obj\Debug\net8.0\MilesCarRental.Domain.csproj.CoreCompileInputs.cache
+D:\2milescar\MilesCarRental.Domain\obj\Debug\net8.0\MilesCarRental.Domain.dll
+D:\2milescar\MilesCarRental.Domain\obj\Debug\net8.0\refint\MilesCarRental.Domain.dll
+D:\2milescar\MilesCarRental.Domain\obj\Debug\net8.0\MilesCarRental.Domain.pdb
+D:\2milescar\MilesCarRental.Domain\obj\Debug\net8.0\ref\MilesCarRental.Domain.dll

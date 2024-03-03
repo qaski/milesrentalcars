@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MilesCarRental.Application/1.0.0": {
+        "dependencies": {
+          "MilesCarRental.Domain": "1.0.0"
+        },
+        "runtime": {
+          "MilesCarRental.Application.dll": {}
+        }
+      },
+      "MilesCarRental.Domain/1.0.0": {
+        "runtime": {
+          "MilesCarRental.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MilesCarRental.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MilesCarRental.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
